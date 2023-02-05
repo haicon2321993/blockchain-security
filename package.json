@@ -1,0 +1,21 @@
+{
+  "name": "blockchain-security",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
+    "@openzeppelin/contracts-upgradeable": "^4.8.1",
+    "axios": "^0.27.2",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.1",
+    "hardhat": "^2.12.6"
+  }
+}
